@@ -30,4 +30,4 @@ if __name__ == '__main__':
     s = Solution()
     # print("expecting =>", [1, 2, 3, 4, 5])
     print(s.bubble_sort2([5, 4, 3, 2, 1]))    
-    x = 3
+    x = 4
